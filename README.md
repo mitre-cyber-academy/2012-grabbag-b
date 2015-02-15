@@ -4,7 +4,7 @@ Description: Time to start adding.
 Challenge:
 Give the students the file "findTheFlag.txt" and the Title & Description text above.
 
-
+Note: One of the main files for this challenge is not located in this repository, it can be downloaded from here: [findTheFlag.txt](https://drive.google.com/file/d/0B48Lv30KB1seVDVHZ0ZNdkxERFk/view?usp=sharing).
 
 Solution:
 
